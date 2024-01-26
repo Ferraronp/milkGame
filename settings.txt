@@ -1,0 +1,2 @@
+volume=10
+music=music/fon.mp3

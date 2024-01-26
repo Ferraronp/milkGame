@@ -1,0 +1,6 @@
+money=20.0
+money_level=0
+milk=0.0
+milk_level=0
+auto_click=0
+auto_sell=0
