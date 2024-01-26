@@ -96,6 +96,9 @@ def get_settings():
         settings['volume'] = int(settings['volume'])
     except Exception:
         settings['volume'] = 10
+
+    if 'music' not in settings:
+        settings['music'] = 'music/fon.mp3'
     return settings
 
 
